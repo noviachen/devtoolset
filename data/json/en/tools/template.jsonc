@@ -59,6 +59,18 @@
   // R
   // S
   {
+    "name": "Shadcnblocks",
+    "description": "Hundreds of extra blocks and components for Shadcn UI",
+    "url": "https://shadcnblocks.com",
+    "tags": ["kit", "templates", "nextjs", "paid"]
+  },
+  {
+    "name": "Shadcn Templates",
+    "description": "Collection of Shadcn UI templates, components, boilerplates, and more.",
+    "url": "https://shadcntemplates.com",
+    "tags": ["kit", "templates", "nextjs", "free"]
+  },
+  {
     "name": "Shipfast",
     "description": "A modern saas template that enables rapid setup.",
     "url": "https://shipfa.st/",
